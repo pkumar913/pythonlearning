@@ -1,0 +1,12 @@
+panda
+pymysql
+pymongo
+pyutil
+numpy
+scripy
+
+# pip install -r ./requirements.txt
+# pip freeze > backup.txt
+# pip list
+# pip show pymysql
+# pip uninstall pymysqls
